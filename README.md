@@ -104,6 +104,8 @@ Detailed examples and scenarios can be found in the accompanying documentation f
 
 For further assistance or questions, refer to the official documentation or contact support at [Bots.Business](https://bots.business).
 
+Join our channel for updates and support: [Teleservices API](https://t.me/Teleservices_Api)
+
 ---
 
 ## License
