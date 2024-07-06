@@ -1,6 +1,6 @@
 // 24443 - lib id
 
-const LIB_PREFIX = "teleservice_";
+const LIB_PREFIX = "api_";
 
 function _setupAdminPanel(){
   const panel = {
